@@ -2,7 +2,7 @@
 #include <string>
 #include <opencv2/opencv.hpp>
 using namespace cv;
-std::string version = "1.0";
+std::string version = "2.0";
 int main (int argc, char** argv )
 {
     if ( argc != 2 )
